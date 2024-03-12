@@ -1,1 +1,1 @@
-# RU-AML-EnsembleLearning
+# Ensemble Learning
